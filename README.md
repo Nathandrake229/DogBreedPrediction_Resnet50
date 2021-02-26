@@ -16,8 +16,12 @@ and it returns {"breed":breed, "score":prob}
 
 here is an example
 
-I used the website https://www.base64-image.de/ to convert  ![alt text](https://github.com/Nathandrake229/DogBreedPrediction_Resnet50/blob/master/dog.jpg?raw=true)
+I used the website https://www.base64-image.de/ to convert  
+
+![alt text](https://github.com/Nathandrake229/DogBreedPrediction_Resnet50/blob/master/dog.jpg?raw=true)
+
 into Base64 encoded image string and then sent it to the API and got the resulted in the prescribed format
+
 ![alt text](https://github.com/Nathandrake229/DogBreedPrediction_Resnet50/blob/master/API_Screenshot.png?raw=true)
 
 the base64 encoded image string for a dog breed image 

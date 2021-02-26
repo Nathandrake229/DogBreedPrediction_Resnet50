@@ -30,4 +30,4 @@ the return data is
     "score": 0.9999816417694092
 }
 
-![alt text](https://github.com/Nathandrake229/DogBreedPrediction_Resnet50/master/API_Screenshot.png?raw=true)
+![alt text](https://github.com/Nathandrake229/DogBreedPrediction_Resnet50/blob/master/API_Screenshot.png?raw=true)

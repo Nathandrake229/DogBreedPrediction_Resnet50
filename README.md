@@ -8,7 +8,7 @@ I opted for pre trained weights instead of training from scratch since the train
 the model was trained and saved in h5 format which is uploaded in the repository
 Since the weights .h5 file size is more than 100 MB so i used Git LFS system to upload the file and can be downloaded separately for testing the accuracy of the model
 
-##########################################################################################################
+
 
 # API around Dog Breed Prediction
 As for the REST API, the file "api.py" can be deployed and tested. I tested the API using Postman locally. The API accecpts the JSON data in the format {"image" : Base64 encoded image string }
